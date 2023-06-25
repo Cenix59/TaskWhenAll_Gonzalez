@@ -1,0 +1,14 @@
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\bin\Debug\Concurrencias.3.exe.config
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\bin\Debug\Concurrencias.3.exe
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\bin\Debug\Concurrencias.3.pdb
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\bin\Debug\Newtonsoft.Json.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\bin\Debug\Newtonsoft.Json.xml
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\TaskWhenAll.csproj.AssemblyReference.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\TaskWhenAll.csproj.SuggestedBindingRedirects.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\Concurrencias._3.Form1.resources
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\Concurrencias._3.Properties.Resources.resources
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\TaskWhenAll.csproj.GenerateResource.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\TaskWhenAll.csproj.CoreCompileInputs.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\TaskWhenAll.csproj.CopyComplete
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\Concurrencias.3.exe
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\TaskWhenAll_González\TaskWhenAll_González\TaskWhenAll_González\obj\Debug\Concurrencias.3.pdb
